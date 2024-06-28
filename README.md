@@ -1,1 +1,3 @@
 Sort Swift is a tool for categorizing pdf and then suggesting tailored edit suggestions based on it. Currently the OCR and Model is developed. The edit site is in development. To run the model locally, make sure to install relevant libraries as mentioned and making sure of the correct locations of the datasets in the file. Depending on the system specifications, it takes roughly around 6-12hrs to run the model for 3 Epochs. 
+
+The dataset for this model was collected and organised through web scraping methods and publicly available datasets. Relevant codes are provided which were used to extract the data from the datasets and merge relevant data features. In the end, relevant data subsets for each label were curated which was then merged together into one file.
